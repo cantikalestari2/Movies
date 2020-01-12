@@ -1,0 +1,72 @@
+[
+  {
+    "judul": "Joker",
+    "genre": "thriller",
+    "rating": "7.7",
+    "durasi": "101",
+    "tahun": "2019"
+  },
+  {
+    "judul": "Danur 2: Maddah",
+    "genre": "Horror",
+    "rating": "8.6",
+    "durasi": "90",
+    "tahun": "2018"
+  },
+  {
+    "judul": "Dua Garis Biru",
+    "genre": "Romance",
+    "rating": "7.7",
+    "durasi": "113",
+    "tahun": "2019"
+  },
+  {
+    "judul": "After Met You",
+    "genre": "Romance",
+    "rating": "6.6",
+    "durasi": "107",
+    "tahun": "2019"
+  },
+  {
+    "judul": "Yowis Ben",
+    "genre": "Comedy",
+    "rating": "7.0",
+    "durasi": "169",
+    "tahun": "2018"
+  },
+  {
+    "judul": "Cek Toko Sebelah",
+    "genre": "Comedy",
+    "rating": "7.7",
+    "durasi": "137",
+    "tahun": "2018"
+  },
+  {
+    "judul": "Critical Eleven",
+    "genre": "Romance",
+    "rating": "7.1",
+    "durasi": "118",
+    "tahun": "2017"
+  },
+  {
+    "judul": "Inception",
+    "genre": "Mystery",
+    "rating": "8.8",
+    "durasi": "148",
+    "tahun": "2010"
+  },
+  {
+    "judul": "The Dark Knight",
+    "genre": "Drama",
+    "rating": "9.0",
+    "durasi": "152",
+    "tahun": "2008"
+  },
+  {
+    "judul": "Interstellar",
+    "genre": "Mystery",
+    "rating": "8.6",
+    "durasi": "169",
+    "tahun": "2014"
+  }
+]

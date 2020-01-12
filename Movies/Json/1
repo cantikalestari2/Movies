@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "The Shawshank",
+    "genre": "Mystery",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/82783739_1032039170472048_4927795894880829440_n.jpg?_nc_cat=107&_nc_oc=AQm5dQZ2i3BjMMOIJogRtZ6ghEg26aEI8wejfbl5Wqu8b0tR4Hvb2KRLMAJgb751A3w&_nc_ht=scontent-sin2-2.xx&oh=eb40ffd8a942a11f1b79a0945517daad&oe=5EA8CFDA",
+    "technologyexists": "1"
+  },
+  {
+    "id": "2",
+    "name": "The Godfather",
+    "genre": "Crime",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/81932924_1032106950465270_6758006945765916672_o.jpg?_nc_cat=110&_nc_oc=AQmc4oPjNor6RpB652sTwvu3pZG3YJsivRHB-qJC7qVQfcwdKnhEEnTdswacEj6YVn4&_nc_ht=scontent-sin2-2.xx&oh=40db6cd2633b4b63076e89d9b8d2f161&oe=5E923693",
+    "technologyexists": "0"
+  },
+  {
+    "id": "3",
+    "name": "The Dark Knight",
+    "genre": "Drama",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/81938063_1032107310465234_7505501215715753984_n.jpg?_nc_cat=109&_nc_oc=AQnvgAMMhg253quZbQJ2cVg2tvMRNZMljUaXfbt0cIRK1cWpqYLV4vaKdOlFgk0X5xw&_nc_ht=scontent-sin2-2.xx&oh=5ef11bfa76189673000d3830843d5c99&oe=5EA2A6EA",
+    "technologyexists": "1"
+  },
+  {
+    "id": "4",
+    "name": "Inception",
+    "genre": "Action",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/82271104_1032107163798582_1715087755345657856_o.jpg?_nc_cat=102&_nc_oc=AQkBYX9eNnAmBjYqt0tN5-p-pVA11p6LXirkOhj9nVWkp4wl1w9MWMeV0Oq8S9upOps&_nc_ht=scontent-sin2-2.xx&oh=6f382f6fb1526dd330f2d4a9325b248c&oe=5E8ED1E1",
+    "technologyexists": "0"
+  },
+  {
+    "id": "5",
+    "name": "The Matrix",
+    "genre": "Action",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/81635156_1032107207131911_3810715900949037056_n.jpg?_nc_cat=103&_nc_oc=AQkHUXR4hn8D5rJXS2FEqBWp8kx79zwyFDdZlP8z96jTvRGyrJdDRGfdSAxYK01fWNo&_nc_ht=scontent-sin2-2.xx&oh=bc7bb445ff610014686c6529f4c252f9&oe=5EB13826",
+    "technologyexists": "1"
+  },
+  {
+    "id": "6",
+    "name": "Goodfellas",
+    "destination": "Crime",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/81895846_1032107017131930_7984491439037874176_n.jpg?_nc_cat=110&_nc_oc=AQnXk4WtPv5Ixhj2zsL13Kn5LH5B9bGOrPOCKzfmnqMwmnjifCvLqXf-3R_2z46p9vM&_nc_ht=scontent-sin2-2.xx&oh=7b115822b0962b142ff43f9a713c3e03&oe=5EA1FDE2",
+    "technologyexists": "0"
+  },
+  {
+    "id": "7",
+    "name": "Se7en",
+    "genre": "Mystery",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/82738712_1032107257131906_8109990873053265920_n.jpg?_nc_cat=100&_nc_oc=AQkQca33xFtQaDu3f7A7wdxp93RTbfMm4teq0F2bTNmMWRO7fbgm_UzmqLMkjQbAPRk&_nc_ht=scontent-sin2-2.xx&oh=f26225e8db6e6f1226e2ed346a0513ae&oe=5E930876",
+    "technologyexists": "1"
+  },
+  {
+    "id": "8",
+    "name": "Parasite",
+    "genre": "Thriller",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/82336432_1032107263798572_1177938009773834240_o.jpg?_nc_cat=102&_nc_oc=AQmLelL18SSf20P83lgIx0vGMpuD966YubinmVl2-C0mH0v7K3gixKzr8ujmd1qM_GI&_nc_ht=scontent-sin2-2.xx&oh=37bb74231da19d811fb105b587b72433&oe=5EACFBC8",
+    "technologyexists": "0"
+  },
+  {
+    "id": "9",
+    "name": "Joker",
+    "genre": "Crime",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/82279155_1032107140465251_5649723813655478272_n.jpg?_nc_cat=107&_nc_oc=AQn71FosceOpuH499oK1MBxa94FImgKbgTrXKr6Ke0v1mI3WtoZpC1cgoIUbMy7yGDc&_nc_ht=scontent-sin2-2.xx&oh=3383f6d48acf2eb28f78883666d4b173&oe=5EA7150B",
+    "technologyexists": "1"
+  },
+  {
+    "id": "10",
+    "name": "Interstellar",
+    "genre": "Mystery",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/82182902_1032107123798586_7828471413366325248_n.jpg?_nc_cat=100&_nc_oc=AQm1WlL-O9ISQqyeZhm2jFWaKo0Ara-fiBuaWVXCeUkBa_Rlm-T87PPcriNIO4btFSo&_nc_ht=scontent-sin2-2.xx&oh=e784252e88c13eba04db1eb975b6cfc9&oe=5E955436",
+    "technologyexists": "1"
+  },
+  {
+    "id": "11",
+    "name": "The Prestige",
+    "genre": "Mystery",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/s960x960/81825345_1032107357131896_2199886054352224256_o.jpg?_nc_cat=100&_nc_oc=AQlOiZ-YCLbE2LZ4F3eQbyMuvhcRpYMCKUYq8aHpxvobdWvnHINZ35AZ1WokQP-xrxY&_nc_ht=scontent-sin2-2.xx&_nc_tp=1&oh=1320683b9f427fbd8f60c1d0523b6859&oe=5EA7D886",
+    "technologyexists": "0"
+  },
+   {
+    "id": "12",
+    "name": " Avengers: Endgame",
+    "genre": "Action",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/82300576_1032107010465264_160590841537101824_n.jpg?_nc_cat=109&_nc_oc=AQnEOOu6Juv4Fp6bVmAUKfPvKDpfg4WTrL3j1sj9_JZrnQzhGv3R49HSJdt4Vdgt8Tw&_nc_ht=scontent-sin2-2.xx&oh=68d2151c35fc089b9ec66c499fc2b788&oe=5E98CB65",
+    "technologyexists": "1"
+  }
+]

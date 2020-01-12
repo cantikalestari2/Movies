@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Danur 2: Maddah",
+    "genre": "Horror",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/82300576_1032107010465264_160590841537101824_n.jpg?_nc_cat=109&_nc_oc=AQnEOOu6Juv4Fp6bVmAUKfPvKDpfg4WTrL3j1sj9_JZrnQzhGv3R49HSJdt4Vdgt8Tw&_nc_ht=scontent-sin2-2.xx&oh=68d2151c35fc089b9ec66c499fc2b788&oe=5E98CB65",
+    "technologyexists": "1"
+  }
+  {
+    "id": "2",
+    "name": "Dua Garis Biru",
+    "genre": "Drama",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/82336432_1032107263798572_1177938009773834240_o.jpg?_nc_cat=102&_nc_oc=AQmLelL18SSf20P83lgIx0vGMpuD966YubinmVl2-C0mH0v7K3gixKzr8ujmd1qM_GI&_nc_ht=scontent-sin2-2.xx&oh=37bb74231da19d811fb105b587b72433&oe=5EACFBC8",
+    "technologyexists": "0"
+  },
+  {
+    "id": "3",
+    "name": "After Met You",
+    "genre": "Drama",
+    "imageurl": "https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-9/82279155_1032107140465251_5649723813655478272_n.jpg?_nc_cat=107&_nc_oc=AQn71FosceOpuH499oK1MBxa94FImgKbgTrXKr6Ke0v1mI3WtoZpC1cgoIUbMy7yGDc&_nc_ht=scontent-sin2-2.xx&oh=3383f6d48acf2eb28f78883666d4b173&oe=5EA7150B",
+    "technologyexists": "1"
+  },
+  {
+    "id": "4",
+    "name": "Yowis Ben",
+    "genre": "Comedy",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/pioneer.jpg",
+    "technologyexists": "0"
+  },
+  {
+    "id": "5",
+    "name": "Cek Toko Sebelah",
+    "genre": "Comedy",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/spitzer.jpg",
+    "technologyexists": "1"
+  },
+  {
+    "id": "6",
+    "name": "Critical Eleven",
+    "genre": "Drama",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/wmap.jpg",
+    "technologyexists": "0"
+  },
+  {
+    "id": "7",
+    "name": "Crazy Rich Asians",
+    "genre": "Romance",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/kepler.jpg",
+    "technologyexists": "1"
+  },
+  {
+    "id": "8",
+    "name": "BlackPanter",
+    "genre": "Action",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/enterprise.jpg",
+    "technologyexists": "0"
+  },
+  {
+    "id": "9",
+    "name": "Overlord",
+    "genre": "Action",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/rosetta.jpg",
+    "technologyexists": "1"
+  },
+  {
+    "id": "10",
+    "name": "A Quiet Place",
+    "genre": "Horror",
+    "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/columbia.jpg",
+    "technologyexists": "1"
+  },
+]
